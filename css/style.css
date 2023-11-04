@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+img {
+    display: inline-block;
+}
+
+span {
+    display: inline-block;
+}
+
+button {
+    cursor: pointer;
+}
+
+.container {
+    width: 263px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.box {
+    background-color: #4CB9FC;
+    border-radius: 10px;
+    width: 265px;
+    height: 370px;
+    margin: 0 auto;
+    margin-bottom: 106px;
+    background-image: url(../img/Twitter.svg);
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+}
+
+.h6-2 {
+    color: #4CB9FC;
+    margin-bottom: 100px;
+}
+
+.text {
+    margin-left: 25px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 25px;
+    margin-bottom: 45px;
+}
+
+.text-2 {
+    margin-left: 25px;
+    color: #C5E4FC;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 58px;
+}
+
+.hr {
+    width: 263px;
+    color: #A2D2FC;
+    margin-bottom: 12px;
+}
+
+.text-3 {
+    margin-left: 25px;
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.silka {
+    margin-bottom: 50px;
+    margin-left: 100px;
+  
+}
+
+.hero{
+    justify-content: center;
+
+}
